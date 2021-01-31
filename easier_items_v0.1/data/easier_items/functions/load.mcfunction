@@ -1,0 +1,3 @@
+say loaded
+gamerule doLimitedCrafting true
+function easier_items:recipe_remover
