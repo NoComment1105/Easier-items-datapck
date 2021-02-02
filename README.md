@@ -2,7 +2,7 @@
 ![Github license](https://img.shields.io/github/license/dabigaaa/Easier-items-datapck.svg)
 ![Github Issues](https://img.shields.io/github/issues/dabigaaa/Easier-items-datapck.svg)
 ![Github Tag](https://img.shields.io/github/tag/dabigaaa/Easier-items-datapck.svg)
-[![Discord Chat](https://img.shields.io/badge/Learn%20more-on-discord-7289DA)](https://discord.gg/28N2Eeq2tT)
+[![Discord Chat](https://img.shields.io/badge/Chat%20on-discord-7289DA)](https://discord.gg/28N2Eeq2tT)
 
 For people who want easier access to some of Minecraft's harder to acquire/end-game items
 
