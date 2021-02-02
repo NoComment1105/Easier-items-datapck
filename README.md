@@ -1,5 +1,5 @@
 # Easier-items-datapck
-![Github license](https://img.shields.io/github/license/dabigaaa/Easier-items-datapack.svg)
+![Github license](https://img.shields.io/github/license/dabigaaa/Easier-items-datapck.svg)
 For people who want easier access to some of minecrafts harder to aquire/end-game items
 
 # What is the purpose of this datapack?
