@@ -18,10 +18,10 @@ Minecraft has a lot of end game items that are quite tricky to acquire, and henc
 
 ### The Developers
 
-|    | Author   | Role   | Links   |
-|----|:---------|:-------|:--------|
-| ![dabigaaa's Avatar](https://avatars3.githubusercontent.com/u/67918617?s=32) | dabigaaa | Pack Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=dabigaaa) |
-| ![doglol99's Avatar](https://avatars3.githubusercontent.com/u/40714465?s=32) | doglol99 | Pack Assistant Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=doglol99) |
+| Author   | Role   | Links   |
+|:---------|:-------|:--------|
+| dabigaaa | Pack Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=dabigaaa) |
+| doglol99 | Pack Assistant Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=doglol99) |
 
 ---
 ### Versioning
