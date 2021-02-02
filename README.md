@@ -23,7 +23,6 @@ Minecraft has a lot of end game items that are quite tricky to acquire, and henc
 | dabigaaa | Pack Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=dabigaaa) |
 | doglol99 | Pack Assistant Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=doglol99) |
 
----
 ### Versioning
 This pack is 1.16.x at it's oldest. I am **NOT** going to back port any of these changes to any other versions
 I will try my hardest to updates this pack, in its latest release at the time, on the day of the next version release and will add further features as i get a chance to evaluate the difficulty of the new items
