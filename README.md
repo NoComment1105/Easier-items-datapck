@@ -1,7 +1,7 @@
 # Easier-items-datapck
-![Github license](https://img.shields.io/github/license/dabigaaa/Easier-items-datapck.svg)
-![Github Issues](https://img.shields.io/github/issues/dabigaaa/Easier-items-datapck.svg)
-![Github Tag](https://img.shields.io/github/tag/dabigaaa/Easier-items-datapck.svg)
+![Github license](https://img.shields.io/github/license/NoComment1105/Easier-items-datapck.svg)
+![Github Issues](https://img.shields.io/github/issues/NoComment1105/Easier-items-datapck.svg)
+![Github Tag](https://img.shields.io/github/tag/NoComment1105/Easier-items-datapck.svg)
 [![Discord Chat](https://img.shields.io/badge/Chat%20on-discord-7289DA)](https://discord.gg/28N2Eeq2tT)
 
 For people who want easier access to some of Minecraft's harder to acquire/end-game items
@@ -20,7 +20,7 @@ Minecraft has a lot of end game items that are quite tricky to acquire, and henc
 
 | Author   | Role   | Links   |
 |:---------|:-------|:--------|
-| dabigaaa | Pack Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=dabigaaa) |
+| NoComment1105 | Pack Lead | [Contributions](https://github.com/NoComment1105/Easier-items-datapck/commits?author=NoComment1105) |
 | doglol99 | Pack Assistant Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=doglol99) |
 
 ### Versioning
