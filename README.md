@@ -45,7 +45,8 @@ If you want to contribute to this repo just follow the following steps
 1. create the modifications you want
 1. add yourself to credits
 	1. create a new file with the name USERNAME.json (replace USERNAME with your username)
-	1. paste the following code into it```json
+	1. paste the following code into it
+```json
 {
 	"display": {
 		"title": "USERNAME",
@@ -64,7 +65,8 @@ If you want to contribute to this repo just follow the following steps
 			"trigger": "minecraft:tick"
 		}
 	}	
-}```
+}
+```
 	1. replace USERNAME with your username
 	1. go to https://mcuuid.net/
 	1. input your minecraft username
