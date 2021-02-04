@@ -12,7 +12,7 @@ Minecraft has a lot of end game items that are quite tricky to acquire, and henc
 ### Features
 1. Reducing netherite block cost from 9 ingots to 1 diamond block and one ingot created within the smithing table
 
-2. Reducing the netherite ingot cost from 4 scrap and 4 gold down to 3 scrap and gold.
+1. Reducing the netherite ingot cost from 4 scrap and 4 gold down to 3 scrap and gold.
 
 **More coming soon!**
 
@@ -30,8 +30,8 @@ I will try my hardest to updates this pack, in its latest release at the time, o
 ### Compiling / Using this pack
 If you choose to download the .zip of this repository, to correctly use this pack you need to do a couple of things
 1. You need to separate easier_items_vx.x from the rest of the .zip
-2. Compress easier_items_vx.x into a .zip file itself
-3. Put into your data packs folder in your Minecraft save/server files and you're ready to use
+1. Compress easier_items_vx.x into a .zip file itself
+1. Put into your data packs folder in your Minecraft save/server files and you're ready to use
 ## Contributing to this repo
 If you want to contribute to this repo just follow the following steps
 1. fork this repo
