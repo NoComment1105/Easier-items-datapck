@@ -68,7 +68,7 @@ If you want to contribute to this repo just follow the following steps
 }
 ```
 5.
-	1. replace USERNAME with your username
+	3. replace USERNAME with your username
 	1. go to https://mcuuid.net/
 	1. input your minecraft username
 	1. copy your trimmed UUID
