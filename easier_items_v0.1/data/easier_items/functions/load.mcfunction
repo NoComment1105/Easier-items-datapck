@@ -1,5 +1,5 @@
 #this file is run by minecraft:load every time datapacks are reloaded.
-
+advancement grant @a from no_comment_datapacks:easier_items
 gamerule doLimitedCrafting true
 #restrict crafting
 

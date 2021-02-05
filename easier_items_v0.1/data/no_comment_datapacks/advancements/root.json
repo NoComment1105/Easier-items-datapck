@@ -1,13 +1,14 @@
 {
 	"display":{
-		"title": "Easier Items",
+		"title": "No comment datapack credits",
 		"description": "credits",
 		"icon":{
 			"item": "minecraft:knowledge_book"
 		},
 		"background": "minecraft:textures/block/black_concrete_powder.png",
 		"show_toast": false,
-		"announce_to_chat": false
+		"announce_to_chat": false,
+		"frame":"goal"
 	},
 	"criteria": {
 		"trigger": {
