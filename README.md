@@ -53,16 +53,17 @@ If you want to contribute to this repo just follow the following steps
 		"description": "",
 		"icon": {
 			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:'SKINURL"
+			"nbt": "{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:'SKIN URL'}]}}}"
 		},
 		"background": "minecraft:textures/block/black_concrete_powder.png",
 		"show_toast": false,
-		"announce_to_chat": false
+		"announce_to_chat": false,
+		"hidden":true
 	},
-	"parent": "easier_items:root",
+	"parent": "no_comment_datapacks:easier_items",
 	"criteria": {
 		"trigger": {
-			"trigger": "minecraft:tick"
+			"trigger": "minecraft:impossible"
 		}
 	}	
 }
