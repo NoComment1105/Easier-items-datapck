@@ -36,12 +36,12 @@ If you choose to download the .zip of this repository, to correctly use this pac
 If you want to contribute to this repo just follow the following steps
 1. fork this repo
 1. clone the repo to your local machine
-1. set up a symbolic link (the following method only works on windows and requires admin privaleges)
+1. set up a symbolic link so you dont have to keep copying the datapack to and from the datapack folder in your world saves. (the following method only works on windows and requires admin privaleges) (for more info just google symbolic link)
 	1. search for command prompt
 	1. right click command prompt
 	1. click run as administrator
 	1. windows may ask you if you want to allow command prompt to make changes to your device. If so allow it to.
-	1. type `mklink /J "C:\Users\USERNAME games\AppData\Roaming\.minecraft\saves\MINECRAFTWORLDNAME\datapacks\easier_items" "C:\PATH TO REPO\easierItems\easier_items_v0.1"`
+	1. type `mklink /J "C:\Users\USERNAME games\AppData\Roaming\.minecraft\saves\MINECRAFTWORLDNAME\datapacks\easier_items" "C:\PATH TO REPO CLONE LOCATION\easierItems\easier_items_v0.1"`
 1. create the modifications you want
 1. add yourself to credits
 	1. create a new file with the name USERNAME.json (replace USERNAME with your username)
