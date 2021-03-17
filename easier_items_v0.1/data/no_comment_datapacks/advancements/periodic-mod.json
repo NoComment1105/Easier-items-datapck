@@ -1,0 +1,21 @@
+{
+	"display":{
+		"title": "Periodic Mod Fabric",
+		"description": "A Mod that adds elements from the periodic table to Minecraft",
+		"icon":{
+			"item": "minecraft:emerald"
+		},
+		"background": "minecraft:textures/block/black_concrete_powder.png",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+		"frame":"challenge"
+	},
+	"parent": "no_comment_datapacks:root",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:impossible"
+
+		}
+	}
+}
