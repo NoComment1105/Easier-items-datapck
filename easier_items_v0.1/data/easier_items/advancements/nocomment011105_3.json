@@ -1,0 +1,20 @@
+{
+	"display": {
+		"title": "NoComment011105",
+	  "description": "Dev Lead",
+	  "icon": {
+		  "item": "minecraft:player_head",
+	    "nbt": "{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:'ewogICJ0aW1lc3RhbXAiIDogMTYxNTk1MDEyMjE2OSwKICAicHJvZmlsZUlkIiA6ICIyOWU4ZWUzN2EyZGU0MzU5ODU1OTc1ZDA4MjM0Y2IyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb0NvbW1lbnQwMTExMDUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmE5YWQyNzQ1MjdkYTljNzFkMDcyNTBlOTAwNGRhODI2OTUzNmRhYWI5MjdmYmM5YjQyMGIzNjU2ZjI0YmNlNyIKICAgIH0KICB9Cn0='}]}}}"
+		},
+		"background": "minecraft:textures/block/black_concrete_powder.png",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden":false
+	},
+	"parent": "no_comment_datapacks:chocolatify-rp",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

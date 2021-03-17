@@ -1,0 +1,20 @@
+{
+	"display": {
+		"title": "DragonGamer28",
+		"description": "Artist",
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:'ewogICJ0aW1lc3RhbXAiIDogMTYxNTk1MTI0Mjk5MywKICAicHJvZmlsZUlkIiA6ICJhNjA0NWY1ZmQwZmU0MzcyYjU5MjIzMTc1ZGUwNTY4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmFnb25HYW1lcjI4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUzMGUzZjdiMDQ5ODc4YTkxMzFjZTRlMzQ3YTkxZDQ4ODZkMjMzNWVmNjFjZGEwMDFhN2I5MjU5ZmNkYmYyYzMiCiAgICB9CiAgfQp9'}]}}}"
+		},
+		"background": "minecraft:textures/block/black_concrete_powder.png",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden":false
+	},
+	"parent": "no_comment_datapacks:periodic-mod",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

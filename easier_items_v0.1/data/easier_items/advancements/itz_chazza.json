@@ -1,0 +1,20 @@
+{
+	"display": {
+		"title": "Itz_Chazza",
+		"description": "Artist",
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:'ewogICJ0aW1lc3RhbXAiIDogMTYxNTk1MTA3NjUyOSwKICAicHJvZmlsZUlkIiA6ICI0ZjdkNGJmOTcyMDc0NzNmODFjOTEwZDViYTFlNjdlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHpfQ2hhenphIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YTJmZGFmMDEzMTZkMGNlOWRhYzYyY2RkNTUxMDNhNDcyZThmM2M1OTU2Y2RiMWIwMDI2ZGMyZjlhZjBmZTYiCiAgICB9CiAgfQp9'}]}}}"
+		},
+		"background": "minecraft:textures/block/black_concrete_powder.png",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden":false
+	},
+	"parent": "no_comment_datapacks:chocolatify-rp",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}
