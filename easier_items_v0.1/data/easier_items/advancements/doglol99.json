@@ -1,7 +1,7 @@
 {
 	"display": {
 		"title": "doglol99",
-		"description": "",
+		"description": "Assistant Lead",
 		"icon": {
 			"item": "minecraft:player_head",
 			"nbt": "{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:'ewogICJ0aW1lc3RhbXAiIDogMTYxMjEzOTYwMzc1OSwKICAicHJvZmlsZUlkIiA6ICIyODgyNTFhYmFjZmU0MDUwOWFhZjljYjU3YmY2MDMxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkb2dsb2w5OSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzk3ZDk1ZThkODRkZWI0NWY5ZDJiZWE2MTc4Nzk2MmNkYWNkYWQyOWQ5YTA0MThiMTVjYjhmMDcxNzBjMmEyIgogICAgfQogIH0KfQ=='}]}}}"
@@ -16,5 +16,5 @@
 		"trigger": {
 			"trigger": "minecraft:impossible"
 		}
-	}	
+	}
 }
