@@ -21,7 +21,7 @@ Minecraft has a lot of end game items that are quite tricky to acquire, and henc
 | Author   | Role   | Links   |
 |:---------|:-------|:--------|
 | NoComment1105 | Pack Lead | [Contributions](https://github.com/NoComment1105/Easier-items-datapck/commits?author=NoComment1105) |
-| doglol99 | Pack Assistant Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=doglol99) |
+| doglol99 | Pack Assistant Lead | [Contributions](https://github.com/NoComment1105/Easier-items-datapck/commits?author=doglol99) |
 
 ### Versioning
 This pack is 1.16.x at it's oldest. I am **NOT** going to back port any of these changes to any other versions
@@ -65,7 +65,7 @@ If you want to contribute to this repo just follow the following steps
 		"trigger": {
 			"trigger": "minecraft:impossible"
 		}
-	}	
+	}
 }
 ```
 5.
